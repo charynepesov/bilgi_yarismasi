@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BilgiYarismasi (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "BilgiYarismasi (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
